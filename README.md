@@ -1,2 +1,2 @@
 # EvingoCrash
-Abrir leer comprara archivo de texto 
+Abrir leer compara archivo de texto 
